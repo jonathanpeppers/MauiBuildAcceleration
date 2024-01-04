@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34414.90
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiBuildAcceleration", "MauiBuildAcceleration\MauiBuildAcceleration.csproj", "{F103FD6C-EA22-42C2-9A1D-ACCA734FE93A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MauiBuildAcceleration", "MauiBuildAcceleration\MauiBuildAcceleration.csproj", "{F103FD6C-EA22-42C2-9A1D-ACCA734FE93A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauilClassLibrary", "MauilClassLibrary\MauilClassLibrary.csproj", "{E8B9395D-D5DB-4DCD-9818-679A003395DF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,6 +19,10 @@ Global
 		{F103FD6C-EA22-42C2-9A1D-ACCA734FE93A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F103FD6C-EA22-42C2-9A1D-ACCA734FE93A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F103FD6C-EA22-42C2-9A1D-ACCA734FE93A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{E8B9395D-D5DB-4DCD-9818-679A003395DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8B9395D-D5DB-4DCD-9818-679A003395DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8B9395D-D5DB-4DCD-9818-679A003395DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8B9395D-D5DB-4DCD-9818-679A003395DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

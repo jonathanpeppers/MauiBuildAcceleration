@@ -7,6 +7,8 @@
         public MainPage()
         {
             InitializeComponent();
+
+            Hello.Text = $"Hello, {MauilClassLibrary.Class1.Platform}!";
         }
 
         private void OnCounterClicked(object sender, EventArgs e)
